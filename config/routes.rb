@@ -1,3 +1,3 @@
 Rails.application.routes.draw do
-  get 'forecast/:latlong' => 'forecasts#index', :constraints  => { :latlong => /.*/ }
+  get 'forecast/:latlong' => 'forecast#index', :constraints  => { :latlong => /.*/ }
 end
