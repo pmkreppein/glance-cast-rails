@@ -1,0 +1,46 @@
+[{
+  "nyc": {
+    "name": "New York City",
+    "latlong": "40.7624,-73.9738"
+  },
+  "lax": {
+    "name": "Los Angeles",
+    "latlong": "33.9780,-118.4671"
+  },
+  "chi": {
+    "name": "Chicago",
+    "latlong": "41.8887,-87.6264"
+  },
+  "hou": {
+    "name": "Houston, Republic of Texas",
+    "latlong": "29.7604,-95.3689"
+  },
+  "phx": {
+    "name": "Phoenix",
+    "latlong": "33.4452,-112.0668"
+  },
+  "phl": {
+    "name": "Philadelphia",
+    "latlong": "39.9491,-75.1506"
+  },
+  "sat": {
+    "name": "San Antonio, Republic of Texas",
+    "latlong": "29.4241,-98.4924"
+  },
+  "san": {
+    "name": "San Diego",
+    "latlong": "34.0194,-118.4108"
+  },
+  "dal": {
+    "name": "Dallas, Republic of Texas (Home of Americas Football Team)",
+    "latlong": "32.7472,-97.0926"
+  },
+  "aus": {
+    "name": "Austin, Republic of Texas",
+    "latlong": "30.3039,-97.7544"
+  },
+  "jax": {
+    "name": "Jacksonville, FL",
+    "latlong": "30.3369,-81.6616"
+  }
+}]
